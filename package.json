@@ -1,0 +1,19 @@
+{
+  "name": "localization-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panjun847/localization-loader.git"
+  },
+  "author": "panjun847@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panjun847/localization-loader/issues"
+  },
+  "homepage": "https://github.com/panjun847/localization-loader#readme"
+}
